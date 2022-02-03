@@ -1,0 +1,26 @@
+body{
+    background-color: lightsalmon;
+}
+h1{
+    color: brown;
+    background-color: burlywood;
+    font: bolder;
+    font-size: 40px;
+    width: 250px;
+    height: 60px;
+    font-style:italic;
+}
+
+form{
+    text-align: center;
+}
+label{
+    font-size: 40px;
+    font: bold;
+}
+input{
+    font-size: 30px;
+}
+pre{
+    font-size: 30px;
+}
